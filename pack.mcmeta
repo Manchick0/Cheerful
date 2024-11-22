@@ -1,0 +1,27 @@
+{
+	"pack": {
+		"description": [
+			{
+				"text": "Here to ",
+				"color": "gray"
+			},
+			{
+				"text": "cheer",
+				"color": "#2e81b9"
+			},
+			{
+				"text": " you up!",
+				"color": "gray"
+			},
+			{
+				"text": " 😉\n",
+				"color": "white"
+			},
+			{
+				"text": "V1.0 | @Manchick",
+				"color": "dark_gray"
+			}
+		],
+		"pack_format": 34
+	}
+}

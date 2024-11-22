@@ -18,7 +18,7 @@ Therefore, only around a **1000 emojis** are actually **implementable** in the f
 
 A nice way to contribute to the project is, of course, **suggesting your own emojis**! It helps **a lot** to understand which emojis are essential, and which ones can be left out.
 
-Since 1000 emojis is an ambitious number, Cheerful keeps track of which emojis are **already done `✅`**, **not done yet `❌`**, and **are blacklisted `⛔`**. Before suggesting your emoji, please take a look at the TODO list and ensure it's **not already done `❌`**.
+Since 1000 emojis is an ambitious number, Cheerful keeps track of which emojis are **already done `✅`**, **not done yet `❌`**, and **are blacklisted `⛔`**. Before suggesting your emoji, please take a look at the [To-Do](/todo.json) list and ensure it's **not already done `❌`**.
 
 If the emoji you want to suggest is indeed **neither** blacklisted, **nor** already done, you can feel free to suggest it in the [Workshop](https://discord.gg/ANntBKUPmC). Others can **upvote** your emoji by reacting to your suggestion with an up-arrow `⬆️`.
 

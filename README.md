@@ -6,7 +6,7 @@ A themed way to express your emotions.
 Cheerful is a **resource-pack** that introduces multiple emojis into the game by changing what's already there.
 
 Unicode has **thousands** of emojis. It's physically impossible to support all of them, but luckily - it's not even needed. See, the **majority** of existing
-Unicode emojis are combinations of ones. They what is called a **Zero-Width-Joiner** to fuse two characters together into a completely new one. Minecraft, with its limited emoji support, **cannot handle**
+Unicode emojis are combinations of ones. They use what is called a **Zero-Width-Joiner** to fuse two characters together into a completely new one. Minecraft, with its limited emoji support, **cannot handle**
 any emojis that use the ZWJ.
 
 Therefore, only around a **1000 emojis** are actually **implementable** in the first place.
